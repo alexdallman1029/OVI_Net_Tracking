@@ -10,9 +10,9 @@ From April 22 to May 25, the OVI team was able to track 21 ghost nets. Condition
 
 The purpose of this series is to demonstrate the power of analysis when design is paried with data. Direction and force of wind can be found in the background; conditions and notes are used to provide more information, and pictures of nets being tagged are used for context and scale.  
 
-<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-01.png"  width="35%">
-<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-02.png"  width="35%">
-<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-03.png"  width="35%">
-<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-04.png"  width="35%">
-<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-05.png"  width="35%">
-<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-06.png"  width="35%">
+<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-01.png"  width="45%">
+<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-02.png"  width="45%">
+<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-03.png"  width="45%">
+<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-04.png"  width="45%">
+<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-05.png"  width="45%">
+<img src="https://github.com/alexdallman1029/OVI_Net_Tracking/blob/main/images/OVI_Data-06.png"  width="45%">
